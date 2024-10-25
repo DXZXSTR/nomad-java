@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class beecrowd1138 {
+public class beec1138 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         while (in.hasNext()) {
